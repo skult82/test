@@ -1,0 +1,8 @@
+The Content-Security-Policy directive name ':' contains one or more invalid characters. Only ASCII alphanumeric characters or dashes '-' are allowed in directive names.
+Login:1 The source list for the Content Security Policy directive 'style-src' contains an invalid source: '//map.vworld.kr'. It will be ignored.
+Login:1 The source list for the Content Security Policy directive 'connect-src' contains an invalid source: '//127.0.0.1:16107'. It will be ignored.
+Login:1 The source list for the Content Security Policy directive 'frame-src' contains an invalid source: '//postcode.map.kakao.com'. It will be ignored.
+Login:1 The Content-Security-Policy directive name ':' contains one or more invalid characters. Only ASCII alphanumeric characters or dashes '-' are allowed in directive names.
+
+Login:1 Loading the script 'https://map.vworld.kr/js/vworldMapInit.js.do?version=2.0&apiKey=4F0C9DD3-E093-38D6-8508-48F8B60E4338' violates the following Content Security Policy directive: "default-src 'self'". Note that 'script-src-elem' was not explicitly set, so 'default-src' is used as a fallback. The action has been blocked.
+TouchEnNx_daemon.js:673  Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
